@@ -26,3 +26,10 @@ Portfolio Projects
 . AI Governance
 . Incident Response
 . GRC Dashboard
+
+Purpose 
+This repository contains practical, independently developed and stimulated GRC projects intened to demonstrate my professional capabilities and approach to cybersecurity governance and risk management.
+
+Connect With Me
+Linkedin: []
+Email: follyteewah@gmail.com
